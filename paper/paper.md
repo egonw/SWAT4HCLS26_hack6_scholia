@@ -15,13 +15,10 @@ authors:
     role: Writing – original draft
 affiliations:
   - name: Maastricht University
-    ror: ?
     index: 1
   - name: ?
-    ror: ?
     index: 2
-- name: ?
-    ror: ?
+  - name: ?
     index: 3
 date: 26 March 2026
 cito-bibliography: paper.bib
